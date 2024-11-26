@@ -1,7 +1,7 @@
-I made a new repository (this one) all because the updater annoyed the living shit out of me.
+# I made a new repository (this one) all because the updater annoyed the living shit out of me.
 
 ##  1. How to ask for help
-there will NOT be any support as i cannot be bothered and dont have the time to do such things. i made the theme just for the funnies and nothing more. If you know your way around coding, then feel free to do whatever you want.
+there will NOT be any support as i cannot be bothered and dont have the time to do such things. i made the theme just for the funnies and nothing more. If you know your way around coding, then feel free to do whatever you want. p.s. THERE WILL NOT BE ANY UPDATES (most likely) UNLESS ONE OF MY FRIENDS WILL ASK ME TO TWEAK SOMETHING.
 
 ## 2. Installing a theme
 
